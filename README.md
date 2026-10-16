@@ -1,5 +1,7 @@
 # QNVM-TOE v0.5
 
+<img width="1168" height="784" alt="image" src="https://github.com/user-attachments/assets/0e39b554-a71c-438b-84c4-76b55542d8c1" />
+
 **Lattice-Native Reformulation of the Correlation–Holographic Coherence Research Program**
 
 > **Status:** Speculative research program with executable simulation substrate. No empirical claim asserted.
